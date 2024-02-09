@@ -1,7 +1,8 @@
 """ group members         contribution
    1. Wurist Zewdie       setpos and hexagone functions
    2. Yara   Alhourani    pattern and main functions      
-   3.Afifa   Monzur       circle and square functions   
+   3. Afifa   Monzur       circle and square functions 
+
  in this activity we use six functions(setpos,hexagon,circle,square,pattern and main).
      setpos:sets the position of the turle to co-ordinate x and y without leaving any trace
      hexagon:draw a hexagone of 50 units each side filled with hexa_color,and border_color for border.
@@ -9,7 +10,7 @@
      circle:accept turtle object to draw a circle filled with circle_color,and border_color border.
      pattern:draws hexagon filled with hexa_color followed by circle filled with circle_color 
             then square filled with square_color.
-     main: contains anyother inputs and call the functions."""
+     main: contains anyother inputs and call all functions."""
 
 import turtle
 turta=turtle.Turtle()     # turta is the variable we use to represent turtle object
