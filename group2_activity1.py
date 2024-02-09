@@ -81,10 +81,10 @@ def pattern(hexa_color, square_color, circle_color, border_color):
     square(turta, square_color, border_color)
 
 def main():
-        hexa_color=input("enter the color of hexagon")
-        square_color=input("enter color of square")
-        circle_color=input("enter color of circle")
-        border_color=input("enter border color")
+        hexa_color=input("enter the color of hexagon=")
+        square_color=input("enter color of square=")
+        circle_color=input("enter color of circle=")
+        border_color=input("enter border color=")
         pattern(hexa_color, square_color, circle_color, border_color)
         input("jh")
 main()
